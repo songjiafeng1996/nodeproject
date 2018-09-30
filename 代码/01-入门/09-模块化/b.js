@@ -1,0 +1,1 @@
+console.log("b 通过require 在a文件中导入b文件，在a文件中输出b文件的内容")
